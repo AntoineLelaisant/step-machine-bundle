@@ -1,0 +1,12 @@
+{
+    "name": "knplabs/step-machine-bundle",
+    "description": "Symfony Bundle for knplabs/step-machine library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "KNPLabs",
+            "email": "hello@knplabs.com"
+        }
+    ],
+    "require": {}
+}
